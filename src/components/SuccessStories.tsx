@@ -29,7 +29,7 @@ const SuccessStories = () => {
     },
     {
       name: "ToknMatter",
-      founder: "Austine Mercy Gatonye",
+      founder: "Austine Chisutia",
       description: "\"Tokenized Commdotites Predictions.\"",
       industry: "HealthTech",
       result: "Skale",
@@ -56,7 +56,7 @@ const SuccessStories = () => {
       founder: "Fabian Owuor",
       description: "\"Currency Exchange and Stablecoins.\"",
       industry: "Finance",
-      result: "Southern Africa",
+      result: "Zambia",
       stars: 4,
     },
     {
@@ -88,7 +88,7 @@ const SuccessStories = () => {
       founder: "Fabian Owuor",
       description: "\"Crowd Funded Mining.\"",
       industry: "Finance",
-      result: "Kenya",
+      result: "DRC",
       stars: 4,
     },
     {
@@ -100,11 +100,27 @@ const SuccessStories = () => {
       stars: 4,
     },
     {
+      name: "Berrie",
+      founder: "Godson ",
+      description: "\"Multichain DEX.\"",
+      industry: "Finance",
+      result: "Africa",
+      stars: 4,
+    },
+    {
+      name: "Maids of Honour",
+      founder: "Evelyne Kihia ",
+      description: "\"Domestic Services.\"",
+      industry: "Care",
+      result: "Kenya",
+      stars: 4,
+    },
+    {
       name: "Plate Palate",
       founder: "Jane Maina",
       description: "\"NFT Recipes on chain.\"",
       industry: "Food",
-      result: "Launch",
+      result: "Kenya",
       stars: 4,
     },
   ];
