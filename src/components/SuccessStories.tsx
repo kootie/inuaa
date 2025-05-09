@@ -13,7 +13,7 @@ const SuccessStories = () => {
     },
     {
       name: "USDC Beacons",
-      founder: "Fabian Owuor",
+      founder: "Fabian Owuor & BuildaDAO",
       description: "\"USDC onboarding and payments for products.\"",
       industry: "Ecommerce",
       result: "Base Builds",
@@ -21,7 +21,7 @@ const SuccessStories = () => {
     },
     {
       name: "Esclapian",
-      founder: "Mercy Gatonye",
+      founder: "Mercy Gatune",
       description: "\"Blood Donation, Clinicians Platfrom , Continuos Education for Doctors, Public Information.\"",
       industry: "HealthTech",
       result: "YODH",
@@ -29,7 +29,7 @@ const SuccessStories = () => {
     },
     {
       name: "ToknMatter",
-      founder: "Austine Chisutia",
+      founder: "Austine Chisutia, Fabian Owuor, Thirdweb & BuildaDAO",
       description: "\"Tokenized Commdotites Predictions.\"",
       industry: "HealthTech",
       result: "Skale",
@@ -85,7 +85,7 @@ const SuccessStories = () => {
     },
     {
       name: "GoldFund",
-      founder: "Fabian Owuor",
+      founder: "Fabian Owuor & BuildaDAO",
       description: "\"Crowd Funded Mining.\"",
       industry: "Finance",
       result: "DRC",
@@ -101,7 +101,7 @@ const SuccessStories = () => {
     },
     {
       name: "Berrie",
-      founder: "Godson ",
+      founder: "Godson Ahukanna",
       description: "\"Multichain DEX.\"",
       industry: "Finance",
       result: "Africa",
@@ -109,7 +109,7 @@ const SuccessStories = () => {
     },
     {
       name: "Maids of Honour",
-      founder: "Evelyne Kihia ",
+      founder: "Evelyne Kihia",
       description: "\"Domestic Services.\"",
       industry: "Care",
       result: "Kenya",
