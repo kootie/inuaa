@@ -1,27 +1,26 @@
-
-import { Lightbulb, TrendingUp, Users, Rocket } from 'lucide-react';
+import { Calendar, GraduationCap, Briefcase, Rocket } from 'lucide-react';
 
 const ProgramAreas = () => {
   const programs = [
     {
       title: "12 Months",
-      description: "web3/web2 , Automation , AI , Blockchain KES 50,000 monthly.",
-      icon: <Lightbulb size={48} className="text-kenya-magenta" />,
+      description: "web3/web2 , Automation , AI , Blockchain KES 30,000 monthly.",
+      icon: <Calendar size={48} className="text-kenya-magenta" />,
     },
     {
       title: "6 Months",
-      description: "Blokchain, Web2 KES 25,000 monthly.",
-      icon: <Rocket size={48} className="text-kenya-magenta" />,
+      description: "Blokchain, Web2 KES 60,000 monthly.",
+      icon: <GraduationCap size={48} className="text-kenya-magenta" />,
     },
     {
       title: "3 Months",
-      description: "Interns Track, 3 Months at KES400 a week.",
-      icon: <TrendingUp size={48} className="text-kenya-magenta" />,
+      description: "Interns Track, 3 Months at KES 3,000 a month.",
+      icon: <Briefcase size={48} className="text-kenya-magenta" />,
     },
     {
       title: "1 Month",
-      description: "Startup PAP, build an MVP in 30 days, tract for developers 30% revenue share.",
-      icon: <Users size={48} className="text-kenya-magenta" />,
+      description: "Startup PAP, build an MVP in 30 days, tract for non-developers 30% revenue share.",
+      icon: <Rocket size={48} className="text-kenya-magenta" />,
     },
   ];
 
