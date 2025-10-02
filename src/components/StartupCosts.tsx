@@ -1,5 +1,5 @@
 
-import { DollarSign, Users, Laptop, Building, PiggyBank } from 'lucide-react';
+import { DollarSign, Users, Laptop, Building, PiggyBank, Calendar } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 
 const StartupCosts = () => {
