@@ -5,75 +5,99 @@ const SuccessStories = () => {
   const stories = [
     {
       name: "Reloop",
-      description: "\"E-waste Management.\"",
+      description: "E-waste Management Platform",
       industry: "Technology",
       stars: 5,
+      founder: "INUAA Team",
+      result: "Live Platform"
     },
     {
       name: "Plate Palate",
-      description: "\"USDC onboarding and payments for products.\"",
+      description: "USDC onboarding and payments for products",
       industry: "Ecommerce",
       stars: 5,
+      founder: "INUAA Team",
+      result: "Live Platform"
     },
     {
       name: "Esclapian",
-      description: "\"Blood Donation, Clinicians Platfrom , Continuos Education for Doctors, Public Information.\"",
+      description: "Blood Donation, Clinicians Platform, Continuous Education for Doctors, Public Information",
       industry: "HealthTech",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "ToknMatter",
-      description: "\"Tokenized Commdotites Predictions.\"",
-      industry: "HealthTech",
+      description: "Tokenized Commodities Predictions",
+      industry: "FinTech",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "Gedowize",
-      description: "\"Construction Materials on Chain.\"",
+      description: "Construction Materials on Chain",
       industry: "Construction",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "StableAfrika",
-      description: "\"Currency Exchange and Stablecoins.\"",
+      description: "Currency Exchange and Stablecoins",
       industry: "Finance",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "Klunkaz",
-      description: "\"NFT cycling insurance.\"",
+      description: "NFT Cycling Insurance",
       industry: "Sports",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "Solarflow",
-      description: "\"Machine to Machine Payments.\"",
+      description: "Machine to Machine Payments",
       industry: "Finance",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "InsuRax",
-      description: "\"Hospital Cover.\"",
-      industry: "Insuretech",
+      description: "Hospital Cover Insurance",
+      industry: "InsureTech",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "GoldFund",
-      description: "\"Crowd Funded Mining.\"",
+      description: "Crowd Funded Mining",
       industry: "Finance",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "Civic Trust",
-      description: "\"Tracking Government Projects.\"",
+      description: "Tracking Government Projects",
       industry: "Governance",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
     {
       name: "Tokenized Chikin",
-      description: "\"Chikin on Chain.\"",
+      description: "Chikin on Chain",
       industry: "Food",
       stars: 4,
+      founder: "INUAA Team",
+      result: "In Development"
     },
   ];
 
@@ -81,9 +105,9 @@ const SuccessStories = () => {
     <section id="stories" className="section">
       <div className="container">
         <div className="text-center mb-12">
-          <h2 className="animate-slide-up">May, June, July List</h2>
+          <h2 className="animate-slide-up">Our Success Projects</h2>
           <p className="text-gray-600 max-w-2xl mx-auto animate-slide-up">
-            We find problems to solve and build solutions for. We are a Tech Collective.
+            We find problems to solve and build innovative solutions. We are a Tech Collective focused on blockchain, fintech, and emerging technologies.
           </p>
         </div>
         
@@ -127,7 +151,7 @@ const SuccessStories = () => {
         
         <div className="mt-12 text-center">
           <a href="#contact" className="btn-secondary">
-            Join the August, September , October List
+            Start Your Project With Us
           </a>
         </div>
       </div>
