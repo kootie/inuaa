@@ -35,15 +35,11 @@ const StartupCosts = () => {
                 <CardDescription className="text-center">{cost.description}</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-xl font-semibold text-center mb-4 text-kenya-purple">{cost.amount}</p>
-                <ul className="space-y-2">
-                  {cost.details.map((detail, i) => (
-                    <li key={i} className="text-gray-600 text-sm flex items-start">
-                      <span className="text-kenya-magenta mr-2">•</span>
-                      <span>{detail}</span>
-                    </li>
-                  ))}
-                </ul>
+                <div className="text-center">
+                  <p className="text-lg text-gray-600">
+                    Comprehensive startup support including development, automation, and blockchain integration.
+                  </p>
+                </div>
               </CardContent>
             </Card>
           ))}
