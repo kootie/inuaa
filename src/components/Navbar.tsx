@@ -17,7 +17,6 @@ const Navbar = () => {
           <a href="#home" className="text-gray-800 hover:text-kenya-magenta transition-colors">Home</a>
           <a href="#programs" className="text-gray-800 hover:text-kenya-magenta transition-colors">Programs</a>
           <a href="#stories" className="text-gray-800 hover:text-kenya-magenta transition-colors">Success Stories</a>
-          <a href="#costs" className="text-gray-800 hover:text-kenya-magenta transition-colors">Costs</a>
           <a href="#contact" className="text-gray-800 hover:text-kenya-magenta transition-colors">Contact</a>
         </div>
         
@@ -56,13 +55,7 @@ const Navbar = () => {
             >
               Success Stories
             </a>
-            <a 
-              href="#costs" 
-              className="block text-gray-800 hover:text-kenya-magenta transition-colors"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              Costs
-            </a>
+            
             <a 
               href="#contact" 
               className="block text-gray-800 hover:text-kenya-magenta transition-colors"

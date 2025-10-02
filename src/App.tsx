@@ -5,7 +5,6 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import SuccessStories from "./components/SuccessStories";
-import StartupCosts from "./components/StartupCosts";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
 
@@ -21,7 +20,6 @@ const App = () => (
         <main>
           <Hero />
           <SuccessStories />
-          <StartupCosts />
           <ContactForm />
         </main>
         <Footer />

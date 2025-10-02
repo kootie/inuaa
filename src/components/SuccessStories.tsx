@@ -4,19 +4,10 @@ import { Star } from 'lucide-react';
 const SuccessStories = () => {
   const stories = [
     {
-      name: "Reloop",
-      description: "E-waste Management Platform",
-      industry: "Technology",
-      stars: 5,
-      founder: "INUAA Team",
-      result: "Live Platform"
-    },
-    {
       name: "Plate Palate",
       description: "USDC onboarding and payments for products",
       industry: "Ecommerce",
       stars: 5,
-      founder: "INUAA Team",
       result: "Live Platform"
     },
     {
@@ -24,7 +15,6 @@ const SuccessStories = () => {
       description: "Blood Donation, Clinicians Platform, Continuous Education for Doctors, Public Information",
       industry: "HealthTech",
       stars: 4,
-      founder: "INUAA Team",
       result: "In Development"
     },
     {
@@ -32,7 +22,6 @@ const SuccessStories = () => {
       description: "Tokenized Commodities Predictions",
       industry: "FinTech",
       stars: 4,
-      founder: "INUAA Team",
       result: "In Development"
     },
     {
@@ -40,7 +29,6 @@ const SuccessStories = () => {
       description: "Construction Materials on Chain",
       industry: "Construction",
       stars: 4,
-      founder: "INUAA Team",
       result: "In Development"
     },
     {
@@ -48,7 +36,6 @@ const SuccessStories = () => {
       description: "Currency Exchange and Stablecoins",
       industry: "Finance",
       stars: 4,
-      founder: "INUAA Team",
       result: "In Development"
     },
     {
@@ -56,7 +43,6 @@ const SuccessStories = () => {
       description: "NFT Cycling Insurance",
       industry: "Sports",
       stars: 4,
-      founder: "INUAA Team",
       result: "In Development"
     },
     {
@@ -64,7 +50,6 @@ const SuccessStories = () => {
       description: "Machine to Machine Payments",
       industry: "Finance",
       stars: 4,
-      founder: "INUAA Team",
       result: "In Development"
     },
     {
@@ -79,14 +64,6 @@ const SuccessStories = () => {
       name: "GoldFund",
       description: "Crowd Funded Mining",
       industry: "Finance",
-      stars: 4,
-      founder: "INUAA Team",
-      result: "In Development"
-    },
-    {
-      name: "Civic Trust",
-      description: "Tracking Government Projects",
-      industry: "Governance",
       stars: 4,
       founder: "INUAA Team",
       result: "In Development"
