@@ -82,7 +82,7 @@ const SuccessStories = () => {
     <section id="stories" className="section">
       <div className="container">
         <div className="text-center mb-12">
-          <h2 className="animate-slide-up">Our Success Projects</h2>
+          <h2 className="animate-slide-up">Our Current Projects</h2>
           <p className="text-gray-600 max-w-2xl mx-auto animate-slide-up">
             We find problems to solve and build innovative solutions. We are a Tech Collective focused on blockchain, fintech, and emerging technologies.
           </p>

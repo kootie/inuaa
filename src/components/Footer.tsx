@@ -38,22 +38,12 @@ const Footer = () => {
             <h3 className="text-white text-xl font-semibold mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li><a href="#home" className="text-white/80 hover:text-white transition-colors">Home</a></li>
-              <li><a href="#programs" className="text-white/80 hover:text-white transition-colors">Programs</a></li>
-              <li><a href="#stories" className="text-white/80 hover:text-white transition-colors">Success Stories</a></li>
+              <li><a href="#stories" className="text-white/80 hover:text-white transition-colors">Current Projects</a></li>
               <li><a href="#resources" className="text-white/80 hover:text-white transition-colors">Resources</a></li>
               <li><a href="#contact" className="text-white/80 hover:text-white transition-colors">Contact</a></li>
             </ul>
           </div>
           
-          <div>
-            <h3 className="text-white text-xl font-semibold mb-4">Programs</h3>
-            <ul className="space-y-2">
-              <li><a href="#programs" className="text-white/80 hover:text-white transition-colors">1 Month</a></li>
-              <li><a href="#programs" className="text-white/80 hover:text-white transition-colors">3 Months</a></li>
-              <li><a href="#programs" className="text-white/80 hover:text-white transition-colors">6 Months</a></li>
-              <li><a href="#programs" className="text-white/80 hover:text-white transition-colors">12 Months</a></li>   
-          </ul>
-          </div>
           
           <div>
             <h3 className="text-white text-xl font-semibold mb-4">Contact Us</h3>

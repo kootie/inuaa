@@ -15,8 +15,7 @@ const Navbar = () => {
         
         <div className="hidden md:flex space-x-8">
           <a href="#home" className="text-gray-800 hover:text-kenya-magenta transition-colors">Home</a>
-          <a href="#programs" className="text-gray-800 hover:text-kenya-magenta transition-colors">Programs</a>
-          <a href="#stories" className="text-gray-800 hover:text-kenya-magenta transition-colors">Success Stories</a>
+          <a href="#stories" className="text-gray-800 hover:text-kenya-magenta transition-colors">Current Projects</a>
           <a href="#contact" className="text-gray-800 hover:text-kenya-magenta transition-colors">Contact</a>
         </div>
         
@@ -42,18 +41,11 @@ const Navbar = () => {
               Home
             </a>
             <a 
-              href="#programs" 
-              className="block text-gray-800 hover:text-kenya-magenta transition-colors"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              Programs
-            </a>
-            <a 
               href="#stories" 
               className="block text-gray-800 hover:text-kenya-magenta transition-colors"
               onClick={() => setIsMenuOpen(false)}
             >
-              Success Stories
+              Current Projects
             </a>
             
             <a 
