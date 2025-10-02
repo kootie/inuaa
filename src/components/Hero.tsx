@@ -9,8 +9,7 @@ const Hero = () => {
           <div className="md:w-1/2 space-y-6 animate-fade-in">
             <img src={logo} alt="Inuaa Collective Logo" className="h-16 mb-4" />
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white">
-              Building Kenya's New <br />
-              <span className="text-white/90">Generation of Startups</span>
+              Building tokenized solutions
             </h1>
             <p className="text-xl text-white/80 max-w-lg">
               We build tokenized solutions.
